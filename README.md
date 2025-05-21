@@ -1,6 +1,3 @@
-Oke! Aku update README-nya biar include **Zod** untuk validation & parsing data juga, yang makin populer dipakai bareng NestJS.
-
----
 
 # NestJS Clean Architecture Template
 
@@ -87,4 +84,4 @@ npm run start:prod
 
 ---
 
-Kalau perlu, aku juga bisa bantu buatkan contoh integrasi **Zod** di controller dan service NestJS, atau contoh DTO dengan Zod schema. Mau?
+Made with ❤️ by Mochamad Rifki Maulana
