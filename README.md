@@ -7,7 +7,7 @@ This is a NestJS clean architecture template with Zod validation.
 
 ## Architecture
 
-![Clean Architecture](architecture.png)
+![Clean Architecture](architecture.svg)
 
 1. External systems (HTTP, gRPC, Messaging, etc.) send requests to the system through an Adapter.
 2. The Adapter creates various DTO (Data Transfer Object) models from the request data.
