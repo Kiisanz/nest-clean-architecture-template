@@ -3,7 +3,7 @@
 
 ## Description
 
-This is a NestJS clean architecture template with Zod validation.
+This is a NestJS clean architecture template with Domain-Driven-Design
 
 ## Architecture
 
